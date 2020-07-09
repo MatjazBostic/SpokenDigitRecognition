@@ -1,0 +1,4 @@
+Preučil bom deep neural network algoritme za razpoznavanje izgovorjenih števk (0-9) in naredil tudi svojo implementacijo. 
+Mogoče bom naredil tudi več različnih svojih implementacij (različno število layerjev, itd.), jih streniral na prijateljevi grafični kartici Nvidia GTX 1080 in naredil primerjavo zmogljivosti teh implementacij.
+
+https://github.com/Jakobovski/free-spoken-digit-dataset
