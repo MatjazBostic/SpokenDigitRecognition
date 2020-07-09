@@ -25,7 +25,7 @@ def extract_features(file_name):
     return mfccsscaled
 
 
-# path = "free-spoken-digit-dataset-master/recordings/9_jackson_12.wav"
+# path = "free-spoken-digit-dataset/recordings/9_jackson_12.wav"
 
 path = "spokenDigits/2untitled.wav"
 class_label = "0"

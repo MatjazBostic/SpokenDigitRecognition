@@ -27,11 +27,9 @@ def extract_features(file_name):
     return mfccsscaled
 
 
-path = "free-spoken-digit-dataset-master/recordings/"
+path = "free-spoken-digit-dataset/recordings/"
 
 files = [f for f in listdir(path) if isfile(join(path, f))]
-print("files: ")
-print(files)
 features = []
 # Iterate through each sound file and extract the features
 for file_name in files:

@@ -22,7 +22,7 @@ class WavFileHelper():
 
 wavfilehelper = WavFileHelper()
 
-path = "free-spoken-digit-dataset-master/recordings/9_jackson_12.wav"
+path = "free-spoken-digit-dataset/recordings/9_jackson_12.wav"
 # path = "spokenDigits/4test.wav"
 
 print(wavfilehelper.read_file_properties(path))

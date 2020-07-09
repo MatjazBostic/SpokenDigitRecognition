@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0ce108e-3cd9-4145-986c-424c02a4e094" name="Default Changelist" comment="" />
+    <list default="true" id="f0ce108e-3cd9-4145-986c-424c02a4e094" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/weights.best.basic_cnn.hdf5" beforeDir="false" afterPath="$PROJECT_DIR$/saved_models/weights.best.basic_cnn.hdf5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_audio.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_audio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_single_digit.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_single_digit.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +21,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test_single_digit.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test_audio.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -30,7 +36,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Test single digit">
+  <component name="RunManager" selected="Python.Test audio">
+    <configuration name="Test audio" type="PythonConfigurationType" factoryName="Python">
+      <module name="spoken_digits_recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\projects\spoken_digits_recognition\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_audio.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Test single digit" type="PythonConfigurationType" factoryName="Python">
       <module name="spoken_digits_recognition" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,6 +127,7 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.Test audio" />
       <item itemvalue="Python.Test single digit" />
     </list>
   </component>
@@ -112,7 +141,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594306501756</updated>
-      <workItem from="1594306502853" duration="1487000" />
+      <workItem from="1594306502853" duration="1971000" />
     </task>
     <servers />
   </component>
@@ -131,7 +160,8 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/spoken_digits_recognition$main.coverage" NAME="main Coverage Results" MODIFIED="1594306679981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/spoken_digits_recognition$Test_single_digit.coverage" NAME="Test single digit Coverage Results" MODIFIED="1594307439392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spoken_digits_recognition$main.coverage" NAME="main Coverage Results" MODIFIED="1594308328794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spoken_digits_recognition$Test_audio.coverage" NAME="Test audio Coverage Results" MODIFIED="1594308484796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
