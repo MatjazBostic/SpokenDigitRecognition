@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0ce108e-3cd9-4145-986c-424c02a4e094" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saved_models/weights.best.basic_cnn.hdf5" beforeDir="false" afterPath="$PROJECT_DIR$/saved_models/weights.best.basic_cnn.hdf5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_audio.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_audio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_single_digit.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_single_digit.py" afterDir="false" />
-    </list>
+    <list default="true" id="f0ce108e-3cd9-4145-986c-424c02a4e094" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +135,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594306501756</updated>
-      <workItem from="1594306502853" duration="1971000" />
+      <workItem from="1594306502853" duration="2330000" />
     </task>
     <servers />
   </component>
